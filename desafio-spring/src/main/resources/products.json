@@ -1,0 +1,62 @@
+[
+  {
+    "userId": 1,
+    "id_post": 18,
+    "date": "06-06-2021",
+    "detail": {
+      "product_id": 1,
+      "productName": "Silla Gamer",
+      "type": "Gamer",
+      "brand": "Racer",
+      "color": "Red & Black",
+      "notes": "Special Edition"
+    },
+    "category": 100,
+    "price": 1500.5
+  },
+  {
+    "userId": 2,
+    "id_post": 15,
+    "date": "07-06-2021",
+    "detail": {
+      "product_id": 2,
+      "productName": " Auriculares",
+      "type": "Gamer",
+      "brand": "Racer",
+      "color": "Blue",
+      "notes": "con cable"
+    },
+    "category": 200,
+    "price": 20.75
+  },
+  {
+    "userId": 3,
+    "id_post": 10,
+    "date": "08-06-2021",
+    "detail": {
+      "product_id": 3,
+      "productName": "Escritorio Gamer",
+      "type": "Gamer",
+      "brand": "Racer",
+      "color": "Grey & Black",
+      "notes": "Special"
+    },
+    "category": 300,
+    "price": 500.5
+  },
+  {
+    "userId": 4,
+    "id_post": 1,
+    "date": "09-06-2021",
+    "detail": {
+      "product_id": 1,
+      "productName": "Silla Gamer",
+      "type": "Gamer",
+      "brand": "Racer",
+      "color": "Red & Black",
+      "notes": "Special Edition"
+    },
+    "category": 100,
+    "price": 1500.5
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Iñaki",
+    "buyer": true,
+    "follow": {},
+    "followers": {
+      "2": "Juan",
+      "3": "Lucas"
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "Juan",
+    "buyer": false,
+    "follow": {
+      "1": "Iñaki",
+      "2": "Alexis"
+    },
+    "followers": {
+      "3": "Fido"
+    }
+  },
+  "3": {
+    "id": 3,
+    "name": "Tony",
+    "buyer": true,
+    "follow": {
+      "2": "Camilo"
+    },
+    "followers": {
+      "2": "Martin"
+    }
+  },
+  "4": {
+    "id": 4,
+    "name": "Maria",
+    "buyer": false,
+    "follow": {
+      "1": "Carla"
+    },
+    "followers": {
+      "2": "Roxana"
+    }
+  }
+}
